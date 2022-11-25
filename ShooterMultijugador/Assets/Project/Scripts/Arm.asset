@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gunName: Pistol
   maxAmmoCount: 12
-  actualAmmo: 11
+  actualAmmo: 12
   reloadTime: 2
   damage: 25
   fireRate: 0.2
